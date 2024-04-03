@@ -1,13 +1,32 @@
 # Dependencies to the project
 
-imutils==0.5.1
-matplotlib==2.2.3
-numpy==1.15.1
-opencv-python==3.4.3.18
-pandas==0.23.4
-scikit-image==0.14.0
-scikit-learn==0.19.2
-scipy==1.1.0
-tensorflow==1.8.0
-keras==2.1.5
+#imutils==0.5.1
+imutils==0.5.4
+
+#matplotlib==2.2.3
+matplotlib==3.8.3
+
+#numpy==1.15.1
+numpy==1.26.4
+
+#opencv-python==3.4.3.18
+opencv-python==4.9.0.80
+
+#pandas==0.23.4
+pandas==2.2.1
+
+#scikit-image==0.14.0
+scikit-image==0.22.0
+
+#scikit-learn==0.19.2
+scikit-learn==1.4.0
+
+#scipy==1.1.0
+scipy==1.13.0
+
+#tensorflow==1.8.0
+tensorflow-cpu
+
+#keras==2.1.5
+keras==3.1.1
 
